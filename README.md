@@ -10,6 +10,7 @@ cd Battleship
 ```
 
 To compile this program, use your favorite compiler
+
 For example with g++:
 
     g++ game.c -o out
